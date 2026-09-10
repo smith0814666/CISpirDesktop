@@ -14,11 +14,11 @@ CISpir — 把音视频和文字，变成可理解输入的语言学习材料。
 
 | 我的设备 | 芯片 | 下载文件 |
 |---|---|---|
-| Mac（Apple M1 / M2 / M3 / M4） | Apple Silicon（arm64） | [CISpir-1.4.0-arm64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.0/CISpir-1.4.0-arm64.dmg) |
-| Mac（Intel） | Intel（x64） | [CISpir-1.4.0-x64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.0/CISpir-1.4.0-x64.dmg) |
-| Mac（不确定芯片） | 通用 | [CISpir-1.4.0-universal.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.0/CISpir-1.4.0-universal.dmg) |
-| Windows（Intel / AMD） | x64 | [CISpir-Setup-1.4.0-x64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.0/CISpir-Setup-1.4.0-x64.exe) |
-| Windows（ARM：骁龙 / Copilot+ PC） | arm64 | [CISpir-Setup-1.4.0-arm64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.0/CISpir-Setup-1.4.0-arm64.exe) |
+| Mac（Apple M1 / M2 / M3 / M4） | Apple Silicon（arm64） | [CISpir-1.4.1-arm64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.1/CISpir-1.4.1-arm64.dmg) |
+| Mac（Intel） | Intel（x64） | [CISpir-1.4.1-x64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.1/CISpir-1.4.1-x64.dmg) |
+| Mac（不确定芯片） | 通用 | [CISpir-1.4.1-universal.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.1/CISpir-1.4.1-universal.dmg) |
+| Windows（Intel / AMD） | x64 | [CISpir-Setup-1.4.1-x64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.1/CISpir-Setup-1.4.1-x64.exe) |
+| Windows（ARM：骁龙 / Copilot+ PC） | arm64 | [CISpir-Setup-1.4.1-arm64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.1/CISpir-Setup-1.4.1-arm64.exe) |
 
 > - `.dmg` 用于安装；`.zip` 仅用于自动更新或脚本化部署，普通用户无需下载。
 > - `Setup` 是安装版（创建快捷方式、支持自动更新）；不带 `Setup` 的 `.exe` 是便携版（免安装、双击即用，但不支持自动更新）。推荐安装版。
