@@ -1,10 +1,12 @@
 # CISpir
 
-CISpir — a desktop app for bidirectional text ⇄ voice conversion.
+CISpir — turns audio, video, and text into comprehensible-input language-learning material.
 
 **Download the latest version:** <https://github.com/smith0814666/CISpirDesktop/releases/latest>
 
 **Languages:** [English](README.md) · [中文](README.zh.md) · [日本語](README.ja.md)
+
+**User Manual:** [English](MANUAL.md) · [中文](MANUAL.zh.md) · [日本語](MANUAL.ja.md)
 
 ---
 

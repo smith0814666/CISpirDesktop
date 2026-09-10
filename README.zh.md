@@ -1,10 +1,12 @@
 # CISpir
 
-CISpir — 文字与语音双向转换的桌面应用。
+CISpir — 把音视频和文字，变成可理解输入的语言学习材料。
 
 **下载最新版：** <https://github.com/smith0814666/CISpirDesktop/releases/latest>
 
 **语言 / Languages:** [English](README.md) · [中文](README.zh.md) · [日本語](README.ja.md)
+
+**操作手册 / User Manual:** [English](MANUAL.md) · [中文](MANUAL.zh.md) · [日本語](MANUAL.ja.md)
 
 ---
 
