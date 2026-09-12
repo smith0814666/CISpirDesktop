@@ -14,11 +14,11 @@ CISpir — turns audio, video, and text into comprehensible-input language-learn
 
 | Your device | Chip | Download |
 |---|---|---|
-| Mac (Apple M1 / M2 / M3 / M4) | Apple Silicon (arm64) | [CISpir-1.4.2-arm64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.2/CISpir-1.4.2-arm64.dmg) |
-| Mac (Intel) | Intel (x64) | [CISpir-1.4.2-x64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.2/CISpir-1.4.2-x64.dmg) |
-| Mac (not sure which chip) | Universal | [CISpir-1.4.2-universal.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.2/CISpir-1.4.2-universal.dmg) |
-| Windows (Intel / AMD) | x64 | [CISpir-Setup-1.4.2-x64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.2/CISpir-Setup-1.4.2-x64.exe) |
-| Windows (ARM: Snapdragon / Copilot+ PC) | arm64 | [CISpir-Setup-1.4.2-arm64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.2/CISpir-Setup-1.4.2-arm64.exe) |
+| Mac (Apple M1 / M2 / M3 / M4) | Apple Silicon (arm64) | [CISpir-1.4.3-arm64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.3/CISpir-1.4.3-arm64.dmg) |
+| Mac (Intel) | Intel (x64) | [CISpir-1.4.3-x64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.3/CISpir-1.4.3-x64.dmg) |
+| Mac (not sure which chip) | Universal | [CISpir-1.4.3-universal.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.3/CISpir-1.4.3-universal.dmg) |
+| Windows (Intel / AMD) | x64 | [CISpir-Setup-1.4.3-x64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.3/CISpir-Setup-1.4.3-x64.exe) |
+| Windows (ARM: Snapdragon / Copilot+ PC) | arm64 | [CISpir-Setup-1.4.3-arm64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.3/CISpir-Setup-1.4.3-arm64.exe) |
 
 > - The `.dmg` is for installation; the `.zip` is only for auto-updates / scripted deployment — ordinary users don't need it.
 > - `Setup` is the installer (creates shortcuts, supports auto-update); the plain `.exe` is portable (no install, run directly, no auto-update). The installer is recommended.
