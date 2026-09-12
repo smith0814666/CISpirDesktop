@@ -14,11 +14,11 @@ CISpir — 音声・動画・テキストを、理解可能なインプットの
 
 | お使いの端末 | チップ | ダウンロード |
 |---|---|---|
-| Mac（Apple M1 / M2 / M3 / M4） | Apple Silicon（arm64） | [CISpir-1.4.1-arm64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.1/CISpir-1.4.1-arm64.dmg) |
-| Mac（Intel） | Intel（x64） | [CISpir-1.4.1-x64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.1/CISpir-1.4.1-x64.dmg) |
-| Mac（チップが分からない） | ユニバーサル | [CISpir-1.4.1-universal.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.1/CISpir-1.4.1-universal.dmg) |
-| Windows（Intel / AMD） | x64 | [CISpir-Setup-1.4.1-x64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.1/CISpir-Setup-1.4.1-x64.exe) |
-| Windows（ARM：Snapdragon / Copilot+ PC） | arm64 | [CISpir-Setup-1.4.1-arm64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.1/CISpir-Setup-1.4.1-arm64.exe) |
+| Mac（Apple M1 / M2 / M3 / M4） | Apple Silicon（arm64） | [CISpir-1.4.2-arm64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.2/CISpir-1.4.2-arm64.dmg) |
+| Mac（Intel） | Intel（x64） | [CISpir-1.4.2-x64.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.2/CISpir-1.4.2-x64.dmg) |
+| Mac（チップが分からない） | ユニバーサル | [CISpir-1.4.2-universal.dmg](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.2/CISpir-1.4.2-universal.dmg) |
+| Windows（Intel / AMD） | x64 | [CISpir-Setup-1.4.2-x64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.2/CISpir-Setup-1.4.2-x64.exe) |
+| Windows（ARM：Snapdragon / Copilot+ PC） | arm64 | [CISpir-Setup-1.4.2-arm64.exe](https://github.com/smith0814666/CISpirDesktop/releases/download/v1.4.2/CISpir-Setup-1.4.2-arm64.exe) |
 
 > - `.dmg` はインストール用です。`.zip` は自動更新・スクリプト配布専用で、通常は不要です。
 > - `Setup` 付きはインストーラー版（ショートカット作成・自動更新対応）。`Setup` なしの `.exe` はポータブル版（インストール不要・直接実行、自動更新なし）。インストーラー版を推奨します。
