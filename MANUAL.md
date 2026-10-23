@@ -70,6 +70,9 @@ CISpir turns audio, video, and text into comprehensible-input material for langu
 2. Click any sentence to play it, loop it, or edit its text and timing.
 3. **AI analysis** (needs the AI configured in Settings): select a sentence and click **Analyze** to get a translation, grammar parsing, and extracted vocabulary; generate a **full overview** (summary, topics, difficulty, key vocabulary) for the whole text.
 4. **Save to Anki:** save a sentence, word, or phrase. Install and enable the **AnkiConnect** add-on (default port `8765`) and keep Anki running. Cards are saved to the `CISpir` deck (configurable in Settings → Anki).
+   - Click the star or press A: when save advice is enabled, the save panel opens; otherwise the original sentence is saved directly. More actions → Edit and save always opens the panel for editing, merging adjacent sentences, previewing audio, and saving.
+   - Enabling save advice requests an AI assessment and displays advice. Disabling it hides advice and prevents assessment calls; manual translation and analysis remain available. Results for an unchanged original sentence sync to the subtitle workbench; edited or merged results do not overwrite the original.
+   - Row actions: Translate → Copy sentence → More actions. Menu: Extract chunks → Edit and save → Analyze sentence.
 5. Each card includes the full sentence's audio (0.5 s before, 1 s after the sentence).
 
 ## 5. Practice & learning tools
